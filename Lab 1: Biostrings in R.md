@@ -17,7 +17,7 @@ biocLite("Biostrings")
 require(Biostrings)
 ```
 
-Biostrings可以加引号。如果你想要查看这个包的说明文档，请点击链接http://www.bioconductor.org/packages/release/bioc/manuals/Biostrings/man/Biostrings.pdf](http://www.bioconductor.org/packages/release/bioc/manuals/Biostrings/man/Biostrings.pdf)，我们建议你在这次实验操作中保持文档打开以便于查询。
+Biostrings可以加引号。如果你想要查看这个包的说明文档，请点击链接[http://www.bioconductor.org/packages/release/bioc/manuals/Biostrings/man/Biostrings.pdf](http://www.bioconductor.org/packages/release/bioc/manuals/Biostrings/man/Biostrings.pdf)，我们建议你在这次实验操作中保持文档打开以便于查询。
 
 我们将通过实际操作一些`Biostrings`包提供的函数去熟悉它做的是什么，又是如何实现的。
 
